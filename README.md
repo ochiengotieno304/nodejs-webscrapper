@@ -18,4 +18,3 @@ npm run start
 
 3. Open [http://localhost:8000](http://localhost:8000) with your browser to see the results of the scrape in your terminal.
 
-# nodejs-webscrapper
